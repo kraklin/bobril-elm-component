@@ -1,0 +1,14 @@
+{
+  "name": "bobril-elm-component",
+  "version": "0.0.1",
+  "main": "src/lib.ts",
+  "repository": {},
+  "author": "Tomas Latal",
+  "license": "MIT",
+  "dependencies": {
+    "bobril": "^6.0.2"
+  },
+  "directories": {
+    "example": "example"
+  }
+}
